@@ -1,4 +1,4 @@
-# HFB-Solver-Pure-PairingSystem
+# HFB-Solver-Pure Pairing System
 Implementación numérica del método HFB para el modelo de pairing.
 # Resolución Autoconsistente HFB en Sistemas de Muchos Cuerpos
 
